@@ -1,0 +1,60 @@
+.bigDiv {
+    width: 80%;
+    background-color: black;
+    border-radius: 15px;
+}
+.input {
+    background-color: rgb(67, 66, 66);
+    border-radius: 15px;
+    margin-top: 2%;
+    width: 100%;
+    margin-bottom: 3%;
+    height: 4rem;
+    font-size: 250%;
+    color: blue;
+    text-align: center;
+}
+.word {
+    color: aqua;
+    background-color: rgb(45, 44, 44);
+    font-size: 250%;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    border-radius: 15px;
+    width: 7%;
+    height: 80px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.div {
+    padding-bottom: 5%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.back {
+    font-size: 100%;
+}
+.auto {
+    width: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.probel {
+    width: 40%;
+}
+
+.div1 {
+    padding-bottom: 5%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+/*   DESIGN     */
+.design {
+    box-shadow: -10px 5px 50px red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
